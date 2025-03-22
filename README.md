@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI Modules🌱 I’m currently learning GoLang<br>💬 Ask me about Coding<br>⚡ Fun fact if your code works, dont touch it.
+🔭 I’m currently working on AI Modules<br>🌱 I’m currently learning GoLang<br>💬 Ask me about Coding<br>⚡ Fun fact if your code works, dont touch it.
 
 
 # 💻 Tech Stack:
