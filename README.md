@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on AI Modules🌱 I’m currently learning GoLang<br>💬 Ask me about Coding<br>⚡ Fun fact if your code works, dont touch it.
 
 
 # 💻 Tech Stack:
